@@ -1,5 +1,12 @@
 .bg-top {
     background-image: url("images/topphoto.jpg");
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    
+
 }
 h1 {
     text-align: center;
