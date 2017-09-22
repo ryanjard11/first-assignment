@@ -1,6 +1,6 @@
 .bg-top {
     background-image: url("images/topphoto.jpg");
-    min-height: 400px;
+    min-height: 350px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -8,8 +8,16 @@
     
 
 }
+.bg-row2 {
+    background-color: lightgray;
+}
+.thumbnail {
+    background-color: transparent;
+    border-color: transparent;
+}
 h3 {
     text-align: center;
+    font-family: Helvetica, sans-serif;
 }
 h5 {
     color: white;
